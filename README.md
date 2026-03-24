@@ -37,14 +37,13 @@ The system uses Natural Language Processing (NLP) techniques to analyze the text
 
 ## How to Run the Project
 1. Install required libraries:
-  pip install pandas numpy scikit-learn nltk
+  - pip install pandas numpy scikit-learn nltk
 2. Run the program:
-   python main.py
-3. Enter any message to check prediction
-   
-   Example:
-   Enter a message: Win a free iPhone now!!!
-   Prediction: spam
+   - python main.py
+4. Enter any message to check prediction
+   - Example:
+   - Enter a message: Win a free iPhone now!!!
+   - Prediction: spam
 
 ## Conclusion
 This project demonstrates how machine learning and NLP can be used to detect spam messages effectively. It provides a simple and practical solution to filter unwanted messages.
