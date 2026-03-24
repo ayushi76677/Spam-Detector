@@ -28,7 +28,7 @@ The system uses Natural Language Processing (NLP) techniques to analyze the text
 7. Take user input and predict spam or not spam  
 
 
-## 📊 Output
+## Output
 - The system takes a message as input  
 - It predicts whether the message is:
   - Spam  
