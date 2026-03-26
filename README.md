@@ -46,9 +46,9 @@ The system uses Natural Language Processing (NLP) techniques to analyze the text
    - Prediction: spam
 ## Project Structure
 Spam-Detector/
-│── main.py
-│── spam.csv
-│── README.md
+- │── main.py
+- │── spam.csv
+- │── README.md
 
 ## Conclusion
 This project demonstrates how machine learning and NLP can be used to detect spam messages effectively. It provides a simple and practical solution to filter unwanted messages.
